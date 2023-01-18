@@ -1,0 +1,47 @@
+[
+    {
+        "name":"AFTER EIGHT KOKTÉL",
+        "photoUrl":"img/aftereight.jpg",
+        "description":"Szereted a mentolos csokit? Akkor biztos ismered az After Eight csokit, amelyben a csokoládé és a mentol igazán különleges ízharmóniát alkot. Az After eight koktél olyan, mintha ennek a csokoládénak a folyékony változata lenne.",
+        "osszetevok":["10 ml Bols green peppermint","10 ml Bols Cacao Brown","10 ml Bols Vodka"],
+        "elkeszites":["Egy shakerbe tegyél jeget,","öntsd rá a hozzávalókat","és rázd jól össze.","Töltsd shot pohárba."],
+        "szervirozas":["Shot pohár"],
+        "forras":"https://mixertanfolyam.hu/koktel-receptek/after-eight-koktel/"
+    },
+    {
+        "name":"ESPRESSO MARTINI KOKTÉL",
+        "photoUrl":"img/espresso_martini.jpg",
+        "description":"Ha egy erős koktélra vágysz vacsora után, és tudod, hogy hosszú lesz az éjszaka, akkor igyál egy Espresso Martinit!",
+        "osszetevok":["30 ml Bols Vodka","30 ml Galliano Ristretto","30 ml friss eszpresszó","10 ml cukorszirup"],
+        "elkeszites":["Tegyél tört jeget egy shakerbe","és öntsd rá a hozzávalókat","Rázd jól össze","és szűrőn keresztül töltsd előhűtött pohárba."],
+        "szervirozas":["Ezt a koktélt klasszikus koktélos, más néven Y pohárban szokás szervírozni."],
+        "forras":"https://mixertanfolyam.hu/koktel-receptek/espresso-martini-koktel/"
+    },
+    {
+        "name":"CHINA BLUES KOKTÉL",
+        "photoUrl":"img/china-blues.jpg",
+        "description":"Szereted a gyümölcsös koktélokat? De az édes íz helyett inkább a citrusos jön be? Akkor válaszd a China Blues koktélt! Hűvös, frissítő és úgy néz ki, mint az óceán. Kell ennél több?",
+        "osszetevok":["15 ml Bols Lychee likőr","30 ml Bols Blue likőr","Grapefruit juice feltöltés"],
+        "elkeszites":["Tegyél jeget egy long drinkes pohárba,","töltsd rá a hozzávalókat,","és végül bárkanállal keverd meg."],
+        "szervirozas":["Ezt a koktélt long drinkes pohárban szokás szervírozni.","Lime szelettel díszíthetjük."],
+        "forras":"https://mixertanfolyam.hu/koktel-receptek/china-blues-koktel/"
+    },
+    {
+        "name":"ABC KOKTÉL",
+        "photoUrl":"img/abc.jpg",
+        "description":"Különleges, de gyorsan elkészíthető frissítőt keresel a bulidra? Akkor készíts ABC koktélt! A neve játék az összetevők kezdőbetűjével: Apricot Brandy Cola. A barátaid ezt a fajta ABC oktatást biztos értékelni fogják!",
+        "osszetevok":["45 ml Bols Apricot Brandy","cola feltöltés"],
+        "elkeszites":["Tölts jeget egy long drinkes pohárba","és öntsd rá a hozzávalókat.","Bárkanállal keverd meg."],
+        "szervirozas":["Long drink pohár"],
+        "forras":"https://mixertanfolyam.hu/koktel-receptek/abc-koktel/"
+    },
+    {
+        "name":"TEA GIN DONKEY KOKTÉL",
+        "photoUrl":"img/tea-gin-donkey.jpg",
+        "description":"Zöld tea likőr, gin és gyömbérsör: csak ez a 3 hozzávaló kell ehhez az érdekes nevet viselő koktélhoz. Tea Gin Donkey – ha nem figyelsz oda, te is becsípsz, mint egy csacsi!",
+        "osszetevok":["37.5 ml Bols Green Tea likőr","22.5 ml Bols Gin","Fél lime leve","Ginger Beer feltöltés"],
+        "elkeszites":["Facsard a lime levét a long drinkes pohárba,","töltsd tele jéggel,","add hozzá a többi összetevőt,","és végül bárkanállal keverd meg."],
+        "szervirozas":["Ezt a koktélt long drinkes pohárban szokás szervírozni.","Lime vagy citrom szelettel díszíthetjük."],
+        "forras":"https://mixertanfolyam.hu/koktel-receptek/tea-gin-donkey-koktel/"
+    }
+]
